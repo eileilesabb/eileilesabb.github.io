@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-label="Скидка">
+  <g transform="translate(7 7)" fill="none" stroke="#0B109F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40.6 26a5.2 5.2 0 0 1 5.2-5.2v-2.1c0-8.3-2.1-10.4-10.4-10.4H14.6C6.3 8.3 4.2 10.4 4.2 18.7v1.1a5.2 5.2 0 0 1 0 10.4v1c0 8.4 2.1 10.5 10.4 10.5h20.8c8.3 0 10.4-2.1 10.4-10.5a5.2 5.2 0 0 1-5.2-5.2Z"/>
+    <path d="m18.8 30.7 12.5-12.5"/>
+    <circle cx="18.75" cy="19.25" r="1.45"/>
+    <circle cx="31.25" cy="30.75" r="1.45"/>
+  </g>
+</svg>

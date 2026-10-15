@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eileilesabb.github.io/sitemap.xml

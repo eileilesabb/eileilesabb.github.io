@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-label="Подарок">
+  <g transform="translate(7 7)" fill="none" stroke="#0B109F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8.5 20.8h33v16.7c0 6.2-2.1 8.3-8.3 8.3H16.8c-6.2 0-8.3-2.1-8.3-8.3V20.8Z"/>
+    <path d="M44.8 14.6v2.1c0 2.3-1.1 4.1-4.2 4.1H9.4c-3.2 0-4.2-1.8-4.2-4.1v-2.1c0-2.3 1-4.2 4.2-4.2h31.2c3.1 0 4.2 1.9 4.2 4.2Z"/>
+    <path d="M24.2 10.4H12.8a2 2 0 0 1 .1-2.7l2.9-2.9a2 2 0 0 1 2.8 0l5.6 5.6Zm13 0H25.8l5.6-5.6a2 2 0 0 1 2.8 0l2.9 2.9a2 2 0 0 1 .1 2.7Z"/>
+    <path d="M18.7 20.8v10.7a2.1 2.1 0 0 0 3.2 1.8l1.9-1.3a2.1 2.1 0 0 1 2.3 0l1.9 1.3a2.1 2.1 0 0 0 3.2-1.8V20.8H18.7Z"/>
+  </g>
+</svg>
