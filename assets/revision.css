@@ -157,6 +157,18 @@ body[data-page-kind="guarantees"] .document-list h2 { font-size: clamp(28px,2.7v
   body[data-page-kind="home"] .audience--customer { padding-top:109px; padding-bottom:109px; min-height:572px; }
   body[data-page-kind="contractors"] .contractor-links { margin-top:-150px; position:relative; z-index:2; border:0; }
 }
+@media (min-width:1451px) {
+  body[data-page-kind="home"] .editorial-hero__copy {
+    padding-left:150px;
+    padding-right:150px;
+  }
+  body[data-page-kind="home"] .editorial-hero__media img {
+    width:min(871px,55vw);
+    padding-top:184px;
+    margin:-2px -59px -53px 16px;
+    transform:none !important;
+  }
+}
 @media (min-width:1200px) and (max-width:1450px) {
   body[data-page-kind="home"] .editorial-hero { height:829px; min-height:829px; overflow:hidden; }
   body[data-page-kind="home"] .editorial-hero__copy { width:43.82%; }

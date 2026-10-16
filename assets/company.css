@@ -365,8 +365,15 @@
 }
 @media (min-width:1101px) and (max-width:1450px) {
   .company-handshake { grid-template-columns:56% 44%; }
-  .company-handshake .handshake-media img,.company-handshake .handshake-media:hover img { width:106%; height:112.6%; left:-3%; top:-11px; transform:rotate(90deg) scale(.84) !important; }
-  .company-handshake article { margin-left:-95px; padding-left:65px; position:relative; z-index:2; }
+  .company-handshake .handshake-media img,.company-handshake .handshake-media:hover img {
+    width:1027px;
+    max-width:none;
+    height:885px;
+    left:-278px;
+    top:-159px;
+    transform:rotate(90deg) scale(.84) !important;
+  }
+  .company-handshake article { margin-left:-191px; padding-left:65px; padding-right:63px; position:relative; z-index:2; }
 }
 @media (min-width:1101px) and (max-width:1199px) {
   .company-handshake { grid-template-columns:59% 41%; min-height:675px; contain:layout paint; }
